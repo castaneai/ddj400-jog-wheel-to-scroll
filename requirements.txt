@@ -1,0 +1,2 @@
+pynput==1.4
+rtmidi==2.3.4
